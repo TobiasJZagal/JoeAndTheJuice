@@ -9,12 +9,12 @@ h1 {
 }
 
 
-.center{
+.center {
     background-color: #1f1b1b;
     text-align: center;
 }
 
-.image_brainstorm{
+.image_brainstorm {
 
     text-align: center;
 
@@ -22,7 +22,7 @@ h1 {
     width: 600px;
 }
 
-.image_placeholder{
+.image_placeholder {
 
     text-align: center;
 
@@ -31,26 +31,26 @@ h1 {
 }
 
 
-.brain{
+.brain {
     justify-content: space-around;
-   display: flex;
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
 
 }
 
-.box1{
+.box1 {
     padding: 20px;
     text-align: center;
     max-width: 640px;
-     flex-basis: 500px;
+    flex-basis: 500px;
     flex-grow: 1;
     justify-content: space-between;
     background-color: #F6BDD8;
 }
 
 
-.box2{
+.box2 {
     font-family: 'Slabo 27px', serif;
     font-size: 1.3em;
     font-weight: 500;
@@ -58,32 +58,70 @@ h1 {
     padding: 20px;
     background-color: #F6BDD8;
     max-width: 640px;
-     flex-basis: 500px;
+    flex-basis: 500px;
     flex-grow: 1;
     justify-content: space-between;
 }
 
-.styletile{
+.styletile {
     display: flex;
     justify-content: center;
 }
 
-.box3{
+.box3 {
     margin-top: 2em;
-   font-family: 'Slabo 27px', serif;
+    font-family: 'Slabo 27px', serif;
     font-size: 1.3em;
     font-weight: 500;
     color: black;
     padding: 20px;
     background-color: #F6BDD8;
     max-width: 640px;
-     flex-basis: 500px;
+    flex-basis: 500px;
     flex-grow: 1;
     justify-content: space-between;
 }
 
-.NABC{
+.NABC {
     display: flex;
     justify-content: center;
 
+}
+
+.box4 {
+    margin-top: 2em;
+    font-family: 'Slabo 27px', serif;
+    font-size: 1.3em;
+    font-weight: 500;
+    color: black;
+    padding: 20px;
+    background-color: #F6BDD8;
+    max-width: 640px;
+    flex-basis: 500px;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.papirprototype {
+    display: flex;
+    justify-content: center;
+}
+
+.box5 {
+    margin-top: 2em;
+    font-family: 'Slabo 27px', serif;
+    font-size: 1.3em;
+    font-weight: 500;
+    color: black;
+    padding: 20px;
+    background-color: #F6BDD8;
+    max-width: 640px;
+    flex-basis: 500px;
+    flex-grow: 1;
+    justify-content: space-between;
+}
+
+.storyboard {
+    display: flex;
+    justify-content: center;
 }

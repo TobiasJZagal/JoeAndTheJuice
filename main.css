@@ -2,15 +2,20 @@ body {
     background-color: #000000;
 }
 
+
 h1 {
-    background-color: #1f1b1b;
-    font-family: 'Slabo 27px', serif;
+
+
+    font-family: 'Slabo 27px';
     color: #F6BDD8;
 }
 
+.gray{
+    background-color: #1f1b1b;
+}
 
 .center {
-    background-color: #1f1b1b;
+
     text-align: center;
 }
 
@@ -124,4 +129,11 @@ h1 {
 .storyboard {
     display: flex;
     justify-content: center;
+}
+
+
+@font-face {
+font-family: "Sign";
+src: url("SignPainter.tff")
+
 }

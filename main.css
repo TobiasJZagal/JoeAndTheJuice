@@ -87,44 +87,48 @@ h1 {
     justify-content: space-between;
 }
 
+.box4 {
+    flex-direction: column;
+
+}
+
+
 .NABC {
     display: flex;
     justify-content: center;
 
 }
 
-.box4 {
-    margin-top: 2em;
-    font-family: 'Slabo 27px', serif;
-    font-size: 1.3em;
-    font-weight: 500;
-    color: black;
-    padding: 20px;
-    background-color: #F6BDD8;
-    max-width: 640px;
-    flex-basis: 500px;
-    flex-grow: 1;
-    justify-content: space-between;
+.BMC {
+    display: flex;
+    justify-content: center;
+
+}
+
+.XD {
+    display: flex;
+    justify-content: center;
+
+}
+
+a{
+
+
+
+    font-family: 'Slabo 27px';
+    color: #000000;
+
+
 }
 
 .papirprototype {
+    justify-content: space-around;
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
-.box5 {
-    margin-top: 2em;
-    font-family: 'Slabo 27px', serif;
-    font-size: 1.3em;
-    font-weight: 500;
-    color: black;
-    padding: 20px;
-    background-color: #F6BDD8;
-    max-width: 640px;
-    flex-basis: 500px;
-    flex-grow: 1;
-    justify-content: space-between;
-}
+
 
 .storyboard {
     display: flex;
